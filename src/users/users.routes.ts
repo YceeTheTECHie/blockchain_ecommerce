@@ -226,7 +226,7 @@ userRouter.post("/login", async (req: Request, res: Response) => {
         email,
         shipping_info: shippingInfo ? shippingInfoDetails : undefined,
         token: jwtToken,
-      },
+      }, 
     });
   } catch (error: any) {
     return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
