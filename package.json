@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tsc": "tsc --watch",
+    "tsc": "npm install && tsc",
     "dev": "pm2 start process.json && pm2 logs"
   },
   "keywords": [],
