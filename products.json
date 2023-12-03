@@ -1,0 +1,12 @@
+{
+  "e31c4c44-734f-4d73-8830-6e8df0397f7b": {
+    "id": "e31c4c44-734f-4d73-8830-6e8df0397f7b",
+    "name": "Wrist watch",
+    "price": 500,
+    "currency_symbol": "$",
+    "image": "image_url.png",
+    "size": ["S", "XL", "M", "L"],
+    "colour": ["#FFFFFF", "#00FFFF", "#00FF00"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dictum turpis non enim eleifend viverra. Aliquam non eros magna. Aliquam."
+  }
+}
