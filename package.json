@@ -38,6 +38,7 @@
     "@types/express": "^4.17.17",
     "@types/helmet": "^4.0.0",
     "@types/http-status-codes": "^1.2.0",
+    "@types/lodash": "^4.14.202",
     "ts-node-dev": "^2.0.0"
   }
 }
